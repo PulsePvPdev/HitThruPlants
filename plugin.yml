@@ -1,0 +1,11 @@
+name: HitThruPlants
+author: PulsePvP_
+main: pulsepvp_.hitthruplants.Main
+version: 1.5.1
+description: Hit entities through plants.
+prefix:
+
+commands:
+  htp:
+    description: Main command 
+    usage: /htp
